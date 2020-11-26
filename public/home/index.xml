@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on My New Hugo Site</title>
+    <link>http://example.org/home/</link>
+    <description>Recent content in Homes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/home/member/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/member/</guid>
+      <description>GIỚI THIỆU THÀNH VIÊN ~ NHÓM 1 ~
+1714234 - HỨA ĐÌNH DOANH
+1710233 - ĐẶNG TRẦN HỮU NHÂN
+1710196 - NGUYỄN ĐĂNG KHOA
+1710289 - PHAN QUỐC TRUNG
+1710264 - HUỲNH LÊ HỮU THÀNH
+ NỘI DUNG TRÌNH BÀY   GIỚI THIỆU MONGODB
+  KHÁI NIỆM MONGODB
+  LỊCH SỬ MONGODB
+  KIẾN TRÚC MONGODB
+  NỀN TẢNG MONGODB
+  CÁC TÍNH NĂNG CHÍNH</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/nodejs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/nodejs/introduction/</guid>
+      <description>GIỚI THIỆU MONGODB  KHÁI NIỆM MONGODB MongoDB, là một hệ quản trị cơ sở dữ liệu (CSDL) nguồn mở,
+là CSDL thuộc NoSQL, được biết đến như một phần của bộ
+combo open-source gồm các công nghệ đều liên quan đến
+JavaScript hot nhất hiện nay, MERN stack
+(MongoDB - ExpressJS - ReactJS - NodeJS)
+MongoDB là CSDL hướng tài liệu (document-oriented),
+các dữ liệu được lưu trữ trong tài liệu dạng JSON thay vì</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/nodejs/node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/nodejs/node/</guid>
+      <description>Node Runtime? NodeJS là môi trường runtime JavaScript với độ trễ thấp và
+thông lượng cao bằng cách thực hiện phương pháp “non-blocking” để cung cấp các yêu cầu. Nói cách khác, NodeJS không lãng phí thời gian hoặc tài nguyên khi chờ các yêu cầu I/O trả về.
+ Event NodeJS hỗ trợ các sự kiện trong các ứng dụng rất hoàn hảo.
+Mỗi hành động trong máy tính được gọi là 1 sự kiện (event).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/nodejs/filesystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/nodejs/filesystem/</guid>
+      <description>File System If you are using an existing theme and you want to a specific CSS class or add a dynamic function using javascript. It is possible to extend existing layout.
+ Node Module You can use partials or you can specify custom_css in your configuration :
+[reveal_hugo] custom_css = &amp;#34;css/custom.css&amp;#34;  The `custom.css` can be present in `static/css/custom.css`   Build &amp;amp; Deploy Same as CSS you can extend your presentation with javascript using partials or with custom_js in your configuration:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/nodejs/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/nodejs/demo/</guid>
+      <description>Demo ▶ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/nodejs/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/nodejs/advanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nhóm 8 - NodeJS</title>
+      <link>http://example.org/home/nodejs/resource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/nodejs/resource/</guid>
+      <description>Tài liệu tham khảo  Node.js Quickstart Modules reveal.js presentation Deploy to Netlify   Cảm ơn cô và các bạn đã lắng nghe! :D
+ ↩ Về trang đầu </description>
+    </item>
+    
+  </channel>
+</rss>

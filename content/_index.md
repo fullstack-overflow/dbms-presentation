@@ -13,12 +13,12 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-#### HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU
+#### BÁO CÁO MÔN HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU
 
 <br>
 
-**TÌM HIỂU CƠ SỞ DỮ LIỆU MONGODB**
+**ĐỀ TÀI: TÌM HIỂU CƠ SỞ DỮ LIỆU MONGODB**
 
 <br>
 
-~ presendted by [@Team 7 có Sakura](https://github.com/team-fullstack-overflow) ~
+~ thuyết trình bởi [@Team 7 có Sakura](https://github.com/team-fullstack-overflow) ~

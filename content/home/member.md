@@ -20,20 +20,10 @@ weight = 10
 
 #### NỘI DUNG TRÌNH BÀY
 
-- GIỚI THIỆU MONGODB
+- Giới thiệu MongoDB
 
-- KHÁI NIỆM MONGODB
+- Tại sao nên sử dụng Mongodb
 
-- LỊCH SỬ MONGODB
+- Các khái niệm cơ bản trong Mongodb
 
-- KIẾN TRÚC MONGODB
-
-- NỀN TẢNG MONGODB
-
-- CÁC TÍNH NĂNG CHÍNH
-
-- ƯU & NHƯỢC ĐIỂM CỦA MONGODB
-
-- LÝ DO NÊN CHỌN MONGODB
-
-- KHI NÀO SỬ DỤNG MONGODB
+- Ưu nhược điểm Mongodb

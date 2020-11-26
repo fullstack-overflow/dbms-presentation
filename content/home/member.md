@@ -1,0 +1,39 @@
++++
+weight = 10
++++
+
+### GIỚI THIỆU THÀNH VIÊN
+
+[~ NHÓM 1 ~]()
+
+1714234 - HỨA ĐÌNH DOANH
+
+1710233 - ĐẶNG TRẦN HỮU NHÂN
+
+1710196 - NGUYỄN ĐĂNG KHOA
+
+1710289 - PHAN QUỐC TRUNG
+
+1710264 - HUỲNH LÊ HỮU THÀNH
+
+---
+
+#### NỘI DUNG TRÌNH BÀY
+
+- GIỚI THIỆU MONGODB
+
+- KHÁI NIỆM MONGODB
+
+- LỊCH SỬ MONGODB
+
+- KIẾN TRÚC MONGODB
+
+- NỀN TẢNG MONGODB
+
+- CÁC TÍNH NĂNG CHÍNH
+
+- ƯU & NHƯỢC ĐIỂM CỦA MONGODB
+
+- LÝ DO NÊN CHỌN MONGODB
+
+- KHI NÀO SỬ DỤNG MONGODB
